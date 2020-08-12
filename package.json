@@ -1,7 +1,6 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "",
   "main": "calc.js",
   "dependencies": {
     "nconf": "^0.10.0"
@@ -11,5 +10,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAH1203/study_web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LAH1203/study_web/issues"
+  },
+  "homepage": "https://github.com/LAH1203/study_web#readme",
+  "description": ""
 }
